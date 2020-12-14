@@ -1,6 +1,6 @@
 ### Hi. I am Anurag 👋
 
-*Quantum Control Researcher at [Saarland University](https://www.uni-saarland.de/en/home.html) & [FZ Julich](https://www.fz-juelich.de/pgi/EN/Forschung/Euro-Quantencomputer/_node.html)* and *Co-Founder of [Wikilimo](www.wikilimo.co)*
+*Quantum Control Researcher at [Saarland University](https://www.uni-saarland.de/en/home.html) & [FZ Julich](https://www.fz-juelich.de/pgi/EN/Forschung/Euro-Quantencomputer/_node.html)* and *Co-Founder of [Wikilimo](https://www.wikilimo.co)*
 
 [![Twitter: anuragsaharoy](https://img.shields.io/twitter/follow/anuragsaharoy?style=social)](https://twitter.com/anuragsaharoy)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-anuragsaharoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuragsaharoy/)](https://www.linkedin.com/in/anuragsaharoy/)
