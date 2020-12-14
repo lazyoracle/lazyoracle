@@ -1,4 +1,28 @@
-### Hi there 👋
+### Hi. I am Anurag 👋
+
+*Quantum Control Researcher at [Saarland University](https://www.uni-saarland.de/en/home.html) & [FZ Julich](https://www.fz-juelich.de/pgi/EN/Forschung/Euro-Quantencomputer/_node.html)* and *Co-Founder of [Wikilimo](www.wikilimo.co)*
+
+[![Twitter: anuragsaharoy](https://img.shields.io/twitter/follow/anuragsaharoy?style=social)](https://twitter.com/anuragsaharoy)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anuragsaharoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuragsaharoy/)](https://www.linkedin.com/in/anuragsaharoy/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/lazyoracle?label=follow&style=social)](https://github.com/lazyoracle)
+[![Website](https://img.shields.io/badge/Website-www.anuragsaharoy.me-informational?style=flat-square)](https://www.anuragsaharoy.me)
+
+
+- 🔭 I’m currently working on:
+  - [C3](https://www.github.com/q-optimize/c3) - An Integrated toolset for Control, Calibration and Characterization of Quantum Devices
+  - [deepGEFF](https://github.com/esowc/wildfire-forecasting) - A Deep Learning system for modelling wildfire behaviour
+- 🌱 I’m currently learning:
+  - Experiment Design using [pyro-ppl](https://github.com/pyro-ppl/pyro)
+  - Scientific Software development using C++
+- 👯 I’m looking to collaborate on:
+  - A PyTorch based Quantum Machine Learning library
+- 💬 Ask me about:
+  - Scientific Software development using Python
+  - DevOps, MLOps and CI/CD tools
+  - Quantum Control
+  - Gradient Free Optimizers
+  - Embedded C++ on ARM Microcontrollers
+- 📫 How to reach me: *contact [AT] anuragsaharoy [DOT] me*
 
 <!--
 **lazyoracle/lazyoracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
