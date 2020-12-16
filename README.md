@@ -24,8 +24,8 @@
 - 📫 How to reach me: *contact [AT] anuragsaharoy [DOT] me*
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lazyoracle&show_icons=true&hide_border=false&&count_private=true)](https://github.com/lazyoracle)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazyoracle&layout=compact)](https://github.com/lazyoracle)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lazyoracle&theme=vue-dark&show_icons=true&hide_border=false&&count_private=true)](https://github.com/lazyoracle)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazyoracle&layout=compact&theme=nord)](https://github.com/lazyoracle)
 
 <!--
 **lazyoracle/lazyoracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
