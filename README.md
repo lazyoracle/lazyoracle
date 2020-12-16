@@ -3,8 +3,7 @@
 *Quantum Control Researcher at [Saarland University](https://www.uni-saarland.de/en/home.html) & [FZ Julich](https://www.fz-juelich.de/pgi/EN/Forschung/Euro-Quantencomputer/_node.html)* and *Co-Founder of [Wikilimo](https://www.wikilimo.co)*
 
 [![Twitter: anuragsaharoy](https://img.shields.io/twitter/follow/anuragsaharoy?style=social)](https://twitter.com/anuragsaharoy)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anuragsaharoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuragsaharoy/)](https://www.linkedin.com/in/anuragsaharoy/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/lazyoracle?label=follow&style=social)](https://github.com/lazyoracle)
+[![Linkedin: anuragsaharoy](https://img.shields.io/badge/-anuragsaharoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuragsaharoy/)](https://www.linkedin.com/in/anuragsaharoy/)
 [![Website](https://img.shields.io/badge/Website-www.anuragsaharoy.me-informational?style=flat-square)](https://www.anuragsaharoy.me)
 
 
@@ -23,6 +22,10 @@
   - Gradient Free Optimizers
   - Embedded C++ on ARM Microcontrollers
 - 📫 How to reach me: *contact [AT] anuragsaharoy [DOT] me*
+
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lazyoracle&show_icons=true&hide_border=false&&count_private=true)](https://github.com/lazyoracle)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazyoracle&layout=compact)](https://github.com/lazyoracle)
 
 <!--
 **lazyoracle/lazyoracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
