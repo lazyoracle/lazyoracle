@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on:
   - [C3](https://www.github.com/q-optimize/c3) - An Integrated toolset for Control, Calibration and Characterization of Quantum Devices
   - [deepGEFF](https://github.com/esowc/wildfire-forecasting) - A Deep Learning system for modelling wildfire behaviour
+  - [ml-fuel](http://github.com/wikilimo/ml-fuel) - An ML toolkit for predicting fuel load in wildfire modelling
 - 🌱 I’m currently learning:
   - Experiment Design using [pyro-ppl](https://github.com/pyro-ppl/pyro)
   - Scientific Software development using C++
