@@ -10,7 +10,9 @@
 - 🔭 I’m currently working on:
   - [C3](https://www.github.com/q-optimize/c3) - An Integrated toolset for Control, Calibration and Characterization of Quantum Devices
 - 🌱 I’m currently learning:
-  - Experiment Design using [pyro-ppl](https://github.com/pyro-ppl/pyro)
+  - Experiment Design with QuTiP and Qiskit Pulse
+  - Qubit design with Qiskit Metal and FOSS EM simulators
+  - FPGA based control stack design for quantum devices
   - Scientific Software development using C++
 - 👯 I’m looking to collaborate on:
   - A PyTorch based Quantum Machine Learning library
