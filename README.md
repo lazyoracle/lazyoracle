@@ -15,7 +15,7 @@
   - FPGA based control stack design for quantum devices
   - Scientific Software development using C++
 - 👯 I’m looking to collaborate on:
-  - A PyTorch based Quantum Machine Learning library
+  - A Torch based Quantum Simulator
 - I have previously worked on:
   - [deepGEFF](https://github.com/esowc/wildfire-forecasting) - A Deep Learning system for modelling wildfire behaviour
   - [ml-fuel](http://github.com/wikilimo/ml-fuel) - An ML toolkit for predicting fuel load in wildfire modelling
