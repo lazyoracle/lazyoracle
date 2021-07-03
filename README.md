@@ -9,22 +9,9 @@
 
 - 🔭 I’m currently working on:
   - [C3](https://www.github.com/q-optimize/c3) - An Integrated toolset for Control, Calibration and Characterization of Quantum Devices
-- 🌱 I’m currently learning:
-  - Experiment Design with QuTiP and Qiskit Pulse
-  - Qubit design with Qiskit Metal and FOSS EM simulators
-  - FPGA based control stack design for quantum devices
-  - Scientific Software development using C++
-- 👯 I’m looking to collaborate on:
-  - A Torch based Quantum Simulator
 - I have previously worked on:
   - [deepGEFF](https://github.com/esowc/wildfire-forecasting) - A Deep Learning system for modelling wildfire behaviour
   - [ml-fuel](http://github.com/wikilimo/ml-fuel) - An ML toolkit for predicting fuel load in wildfire modelling
-- 💬 Ask me about:
-  - Scientific Software development using Python
-  - DevOps, MLOps and CI/CD tools
-  - Quantum Control
-  - Gradient Free Optimizers
-  - Embedded C++ on ARM Microcontrollers
 - 📫 How to reach me: *contact [AT] anuragsaharoy [DOT] me*
 
 ---
