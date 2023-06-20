@@ -1,6 +1,6 @@
 ### Hi. I am Anurag 👋
 
-Chief Product Officer at [Qruise](https://www.qruise.eu), building Machine Learning tools for Science. Quantum Control Researcher at [Saarland University](https://www.uni-saarland.de/en/home.html) & [Forschungszentrum Jülich](https://www.fz-juelich.de/pgi/EN/Forschung/Euro-Quantencomputer/_node.html).
+Chief Product Officer at [Qruise](https://www.qruise.eu), building Machine Learning tools for Science. Quantum Control Researcher at [Saarland University](https://www.uni-saarland.de/en/home.html). Previously at [Forschungszentrum Jülich](https://www.fz-juelich.de/en/pgi/pgi-12), [CQT-NUS](https://www.quantumlah.org/research/group/kai) and [Atomionics](https://www.atomionics.com/).
 
 [![Twitter: anuragsaharoy](https://img.shields.io/twitter/follow/anuragsaharoy?style=social)](https://twitter.com/anuragsaharoy)
 [![Linkedin: anuragsaharoy](https://img.shields.io/badge/-anuragsaharoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuragsaharoy/)](https://www.linkedin.com/in/anuragsaharoy/)
