@@ -8,6 +8,7 @@ Chief Product Officer at [Qruise](https://www.qruise.eu), building Machine Learn
 
 
 - 👨‍💻 OSS work:
+  - Modelling [library](https://github.com/lazyoracle/isotropic-error-analysis) and Lean [proof](https://github.com/lazyoracle/isotropic-grover-proof) for isotropic errors in Grover's algorithm
   - [C3](https://www.github.com/q-optimize/c3) - An Integrated toolset for Control, Calibration and Characterization of Quantum Devices
   - [deepGEFF](https://github.com/esowc/wildfire-forecasting) - A Deep Learning system for modelling wildfire behaviour
   - [ml-fuel](http://github.com/wikilimo/ml-fuel) - An ML toolkit for predicting fuel load in wildfire modelling
